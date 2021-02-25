@@ -2,7 +2,7 @@ import java.rmi.Naming;
 
 // Sprinkler Test
 
-public class ZapotocznyHW5 {
+public class SprinklerTest {
     public static void main(String [] args){
         SprinklerRemote sprinklerSystem = null;
         int count;
